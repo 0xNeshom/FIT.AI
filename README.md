@@ -1,1 +1,1 @@
-view this project: https://neshome.github.io/FIT.AI/
+view this project: https://0xNeshom.github.io/FIT.AI/
